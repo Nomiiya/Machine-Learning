@@ -1,0 +1,5 @@
+TensorFlow official Resources:
+  https://www.tensorflow.org/tutorials/keras
+
+Google Machine Learning Crash Course using TensorFlow:
+  https://developers.google.com/machine-learning/crash-course/
